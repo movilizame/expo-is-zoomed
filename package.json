@@ -1,6 +1,6 @@
 {
   "name": "expo-is-zoomed",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Expo module to detect zoomed display and device utilities",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -21,13 +21,13 @@
     "expo-is-zoomed",
     "ExpoIsZoomed"
   ],
-  "repository": "https://github.com/p4bl1t0/expo-is-zoomed",
+  "repository": "https://github.com/movilizame/expo-is-zoomed",
   "bugs": {
-    "url": "https://github.com/p4bl1t0/expo-is-zoomed/issues"
+    "url": "https://github.com/movilizame/expo-is-zoomed/issues"
   },
   "author": "Pablo Botta <pabloluisbotta@gmail.com> (https://github.com/p4bl1t0)",
   "license": "MIT",
-  "homepage": "https://github.com/p4bl1t0/expo-is-zoomed#readme",
+  "homepage": "https://github.com/movilizame/expo-is-zoomed#readme",
   "devDependencies": {
     "@types/react": "^18.0.25",
     "expo-module-scripts": "^3.5.2",
