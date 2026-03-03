@@ -1,6 +1,6 @@
 {
   "name": "expo-is-zoomed",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "description": "Expo module to detect zoomed display and device utilities",
   "main": "build/index.js",
   "types": "build/index.d.ts",
